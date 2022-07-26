@@ -65,11 +65,3 @@ so sánh các dự đoán này với các giá trị thực để có được m
 			+ Lọc bằng Clustering Ensembles
 	- Nhóm dự định tinh chỉnh các tham số và đánh giá kết quả thế nào? (trả lời nếu có thể)
 
-5. Phác thảo kế hoạch làm việc (plan)
-	- Nhóm dự định phân chia công việc như thế nào?
-		*Phân chia công việc: TẠM THỜI
-		1. Lựa chọn đề tài, tìm hiểu tập dữ liệu và định hướng thực hiện nghiên cứu: Cả nhóm
-		2. Tiền xử lí dữ liệu: 75-Phan Thành Trung-18133059
-		3. Dựa trên mục tiêu nghiên cứu đưa ra phương pháp/mô hình cụ thể, chủ yếu là đưa ra một dự đoán có ích: 41-Lê Đỗ Trà My-18133030, 43-Võ Thị Thanh Ngân-18133033, 39-Huỳnh Thị Hương Ly-18133029
-		4. Kiểm tra kết quả nghiên cứu: Cả nhóm
-		5. Chuẩn bị bài báo cáo và bản trình bày: 75-Phan Thành Trung-18133059, 
